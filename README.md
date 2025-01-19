@@ -3,20 +3,21 @@ Rent Calculator Description: This Python script calculates the amount each perso
 
 # Key Features:
 
-Takes inputs for total rent, food expenses, electricity usage, and the number of persons sharing the room/flat.
-Calculates the electricity bill based on units consumed and charge per unit.
-Splits the total expenses equally among all residents.
-Outputs the amount each person has to pay.
-How It Works:
+*Takes inputs for total rent, food expenses, electricity usage, and the number of persons sharing the room/flat.
+*Calculates the electricity bill based on units consumed and charge per unit.
+*Splits the total expenses equally among all residents.
+*Outputs the amount each person has to pay.
 
-# Users input:
-* Hostel/flat rent
-* Total food expenses
-* Electricity units consumed
-* Cost per electricity unit
-* Number of persons sharing the room/flat
-* The script calculates the total expenses, including rent, food, and electricity.
-* The total is divided equally among all residents, and the per-person amount is displayed.
+# How It Works:
+
+ 1.  Users input:
+     * Hostel/flat rent
+     * Total food expenses
+     * Electricity units consumed
+     * Cost per electricity unit
+     * Number of persons sharing the room/flat
+2. The script calculates the total expenses, including rent, food, and electricity.
+3. The total is divided equally among all residents, and the per-person amount is displayed.
 
 # Technologies Used:
  Python
